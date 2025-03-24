@@ -1,0 +1,1 @@
+    print("rate of the house: " 0.2*house)
